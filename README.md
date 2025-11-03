@@ -1,7 +1,5 @@
 # Bio-Inspired Dendritic Liquid Neural Network for Robust Near-Field Positioning in B5G/6G
 
-## Dataset
-
 The code for the following paper:
 
 Q. Zhu, Y. Wang, T. Ohtsuki, S. Mao, D. Niyato and G. Gui, "Bio-Inspired Dendritic Liquid Neural Network for Robust Near-Field Positioning in B5G/6G," IEEE Wireless Commun. Lett., Early Access, Oct. 2025.
